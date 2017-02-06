@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 5, 2017
-<!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Started doing the "HTML5 and CSS" section of "Front End Development Certification" from freeCodeCamp.
 
@@ -10,3 +9,14 @@
 
 **Link to work:**
 [Last task: Use RGB to Mix Colors](http://bit.ly/2lcOQb2)
+
+
+### Day 1: February 6, 2017
+
+**Today's Progress**: Finished the "Build a Tribute Page".
+
+**Thoughts:**: Nothing special. Very easy task. Had to do it as it is a requirement for the "Front End Development Certification"
+
+
+**Link to work:**
+[CodePen](http://codepen.io/maksad/pen/ZLjOXm)
