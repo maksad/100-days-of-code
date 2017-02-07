@@ -20,3 +20,14 @@
 
 **Link to work:**
 [CodePen](http://codepen.io/maksad/pen/ZLjOXm)
+
+
+### Day 2: February 7, 2017
+
+**Today's Progress**: Started doing a simple portfolio template and make it available for anyone on gitHub.
+
+**Thoughts:**: Spend too much time figuring out the UI of the application and at the end just went with Materialize tabs.
+
+
+**Link to work:**
+[GitHub link](https://github.com/maksad/portfolio)
