@@ -31,3 +31,14 @@
 
 **Link to work:**
 [GitHub link](https://github.com/maksad/portfolio)
+
+
+### Day 3: February 8, 2017
+
+**Today's Progress**: Worked on the portfolio static page.
+
+**Thoughts:**: The styling takes too much time, though it is super easy.
+
+
+**Link to work:**
+[GitHub link](https://github.com/maksad/portfolio)
