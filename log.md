@@ -42,3 +42,15 @@
 
 **Link to work:**
 [GitHub link](https://github.com/maksad/portfolio)
+
+
+### Day 4: February 9, 2017
+
+**Today's Progress**: Finished the simple static portfolio page and moved to fun part - " Basic Algorithm Scripting".
+
+**Thoughts:**: The portfolio page took more time than I was willing to spend on it. The main reason was figuring out how it should look like.
+Though it's simple it still requires some css stylings.
+
+
+**Link to work:**
+[GitHub link](https://github.com/maksad/portfolio)
