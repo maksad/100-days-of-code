@@ -54,3 +54,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [GitHub link](https://github.com/maksad/portfolio)
+
+
+### Day 4: February 9, 2017
+
+**Today's Progress**: Was doing "Algorithms" from freeCodeCamp.
+
+**Thoughts:**: The section is still in progress
+
+
+**Link to work:**
+[freeCodeCamp link](bit.ly/2kY9fDo )
