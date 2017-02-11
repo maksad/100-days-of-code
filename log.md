@@ -56,7 +56,7 @@ Though it's simple it still requires some css stylings.
 [GitHub link](https://github.com/maksad/portfolio)
 
 
-### Day 4: February 9, 2017
+### Day 5: February 10, 2017
 
 **Today's Progress**: Was doing "Algorithms" from freeCodeCamp.
 
@@ -64,4 +64,15 @@ Though it's simple it still requires some css stylings.
 
 
 **Link to work:**
-[freeCodeCamp link](bit.ly/2kY9fDo )
+[freeCodeCamp link](bit.ly/2kY9fDo)
+
+
+### Day 6: February 11, 2017
+
+**Today's Progress**: Did most of the "Algorithm Scripting" section of "Front End Development Certification" from freeCodeCamp.
+
+**Thoughts:**: This was interesting to do. It reminded me of the time when I was just learning algorithms at university and do similar exercises at uva.onlinejudge.org
+
+
+**Link to work:**
+
