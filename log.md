@@ -76,3 +76,24 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 
+
+### Day 7: February 12, 2017
+
+**Today's Progress**: Continued with "Algorithm Scripting" section of "Front End Development Certification" from freeCodeCamp.
+
+**Thoughts:**: Realized that early morning coding after partying and without a coffee is very unproductive. Spend 1h to finish the "Chunky Monkey" code
+
+
+**Link to work:**
+[freeCodeCamp link](goo.gl/4xTXFc)
+
+
+### Day 8: February 13, 2017
+
+**Today's Progress**: My one hour of code turned into 2.5h, but eventually finished the "Algorithm Scripting" section from freeCodeCamp.
+
+**Thoughts:**: Was struggling with the last task - "Caesars Cipher Complete". Couldn't focus. But eventually finished it.
+
+
+**Link to work:**
+[freeCodeCamp link](bit.ly/2kqkGPP)
