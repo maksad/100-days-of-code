@@ -97,3 +97,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [freeCodeCamp link](bit.ly/2kqkGPP)
+
+
+### Day 9: February 14, 2017
+
+**Today's Progress**: Almost finished the "Random quote machine".
+
+**Thoughts:**: Finding random quote generator api took me more time than coding.
+
+
+**Link to work:**
+[codepen link](codepen.io/maksad/pen/jydXpw)
