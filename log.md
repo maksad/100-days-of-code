@@ -108,3 +108,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [codepen link](codepen.io/maksad/pen/jydXpw)
+
+
+### Day 10: February 15, 2017
+
+**Today's Progress**: Build my first small app with #VueJS - "Show the Local Weather" and already loving VueJs.
+
+**Thoughts:**: VueJS seems to be really cool. It's super fast to build small project with it.
+
+
+**Link to work:**
+[github link](https://github.com/maksad/local-weather/tree/53a58dfecf0e561db098db2a21861d58443c85d1)
