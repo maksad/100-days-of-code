@@ -119,3 +119,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [github link](https://github.com/maksad/local-weather/tree/53a58dfecf0e561db098db2a21861d58443c85d1)
+
+
+### Day 11: February 16, 2017
+
+**Today's Progress**: Add icons and stylings to the "Show the Local Weather" app.
+
+**Thoughts:**: CSS always takes lots of unneccessary time.
+
+
+**Link to work:**
+[github link](https://github.com/maksad/local-weather/tree/1880f2709211dc1a767d50c2ab35369b5dcc10b7)
