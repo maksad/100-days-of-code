@@ -130,3 +130,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [github link](https://github.com/maksad/local-weather/tree/1880f2709211dc1a767d50c2ab35369b5dcc10b7)
+
+
+### Day 12/13: February 18, 2017
+
+**Today's Progress**: Didn't code yesterday, thus spend 2h today. Was learning about #500px api and worked on the "Local Weather" app
+
+**Thoughts:**: it's still a bit mistery how to correctly retrieve images from 500px
+
+
+**Link to work:**
+[github link](https://github.com/maksad/local-weather/tree/691faad8d78ec3325b605f55aba8cf13f555fcde)
