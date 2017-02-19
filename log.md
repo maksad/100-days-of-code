@@ -141,3 +141,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [github link](https://github.com/maksad/local-weather/tree/691faad8d78ec3325b605f55aba8cf13f555fcde)
+
+
+### Day 14: February 19, 2017
+
+**Today's Progress**: Finished "Local Weather" app
+
+**Thoughts:**: spend too much time learning useless stuf
+
+
+**Link to work:**
+[CodePen link](http://codepen.io/maksad/full/bgZvex)
