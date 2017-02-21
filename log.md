@@ -163,3 +163,14 @@ Though it's simple it still requires some css stylings.
 
 **Link to work:**
 [CodePen link](http://codepen.io/maksad/pen/NdZQem)
+
+
+### Day 16: February 21, 2017
+
+**Today's Progress**: Fixed the stylings and refactor the api call of the "Wiki view". #freecodecamp
+
+**Thoughts:**: wasn't focused during coding that much
+
+
+**Link to work:**
+[CodePen link](http://codepen.io/maksad/pen/NdZQem)
