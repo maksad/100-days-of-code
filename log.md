@@ -119,6 +119,10 @@ Though it's simple it still requires some css stylings.
 [CodePen link](http://codepen.io/maksad/pen/NdZQem)
 
 
+### Day 18: February 23, 2017
+**Today's Progress**: Started doing "Intermediate Algorithm Scripting" from #freecodecamp.
+**Thoughts:**: Was quite tired so couldn't really focus much
+**Link to work:**
 
 
 **Link to work:**
