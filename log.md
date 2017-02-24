@@ -125,5 +125,7 @@ Though it's simple it still requires some css stylings.
 **Link to work:**
 
 
+### Day 19: February 24, 2017
+**Today's Progress**: Continuing with "Intermediate Algorithm Scripting"
+**Thoughts:**: Set a goal to get "frontend developer certificated" in 40 days
 **Link to work:**
-[CodePen link](http://codepen.io/maksad/pen/NdZQem)
