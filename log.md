@@ -129,3 +129,8 @@ Though it's simple it still requires some css stylings.
 **Today's Progress**: Continuing with "Intermediate Algorithm Scripting"
 **Thoughts:**: Set a goal to get "frontend developer certificated" in 40 days
 **Link to work:**
+
+### Day 20/21: February 25/26, 2017
+**Today's Progress**: Didn't code on Sat so spent 2.5hours today on "Intermediate Algorithm Scripting"
+**Thoughts:**: Started coding without fully graspping the specs, thus spend too much time refactoring
+**Link to work:**
