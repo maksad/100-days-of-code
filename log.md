@@ -134,3 +134,8 @@ Though it's simple it still requires some css stylings.
 **Today's Progress**: Didn't code on Sat so spent 2.5hours today on "Intermediate Algorithm Scripting"
 **Thoughts:**: Started coding without fully graspping the specs, thus spend too much time refactoring
 **Link to work:**
+
+### Day 22: February 26, 2017
+**Today's Progress**: Continued with "Intermediate Algorithm Scripting" from #freecodecamp
+**Thoughts:**: Spend too much time debugging simple issue. Next time will spend more time thinking than doing
+**Link to work:**
