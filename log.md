@@ -139,3 +139,8 @@ Though it's simple it still requires some css stylings.
 **Today's Progress**: Continued with "Intermediate Algorithm Scripting" from #freecodecamp
 **Thoughts:**: Spend too much time debugging simple issue. Next time will spend more time thinking than doing
 **Link to work:**
+
+### Day 23: February 27, 2017
+**Today's Progress**: Done with "Intermediate Algorithm Scripting"
+**Thoughts:**: My performance increases after food consumption, next time before coding I will eat
+**Link to work:**
