@@ -135,12 +135,18 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: Started coding without fully graspping the specs, thus spend too much time refactoring
 **Link to work:**
 
-### Day 22: February 26, 2017
+### Day 22: February 27, 2017
 **Today's Progress**: Continued with "Intermediate Algorithm Scripting" from #freecodecamp
 **Thoughts:**: Spend too much time debugging simple issue. Next time will spend more time thinking than doing
 **Link to work:**
 
-### Day 23: February 27, 2017
+### Day 23: February 28, 2017
 **Today's Progress**: Done with "Intermediate Algorithm Scripting"
 **Thoughts:**: My performance increases after food consumption, next time before coding I will eat
 **Link to work:**
+
+### Day 24: March 1, 2017
+**Today's Progress**: Finished the stylings of "Twitch.tv JSON API"
+**Thoughts:**: I was less annoyed spending 1.3 hours doing the stylings this time
+**Link to work:**
+[CodePen link](https://codepen.io/maksad/pen/BWjdVa)
