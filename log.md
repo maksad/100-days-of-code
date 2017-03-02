@@ -150,3 +150,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: I was less annoyed spending 1.3 hours doing the stylings this time
 **Link to work:**
 [CodePen link](https://codepen.io/maksad/pen/BWjdVa)
+
+### Day 25: March 2, 2017
+**Today's Progress**: Created all the necessary API call functions for the "TwitchTv"
+**Thoughts:**: Promises are always wierd to resolve
+**Link to work:**
+[CodePen link](https://codepen.io/maksad/pen/BWjdVa)
