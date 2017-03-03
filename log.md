@@ -156,3 +156,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: Promises are always wierd to resolve
 **Link to work:**
 [CodePen link](https://codepen.io/maksad/pen/BWjdVa)
+
+### Day 26: March 3, 2017
+**Today's Progress**: Fixed the API calls for the "TwitchTv"
+**Thoughts:**: My gf - Emmi was pissed off when I used our friday eve coding at coffee shop
+**Link to work:**
+[CodePen link](https://codepen.io/maksad/pen/BWjdVa)
