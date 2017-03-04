@@ -162,3 +162,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: My gf - Emmi was pissed off when I used our friday eve coding at coffee shop
 **Link to work:**
 [CodePen link](https://codepen.io/maksad/pen/BWjdVa)
+
+### Day 27: March 4, 2017
+**Today's Progress**: Done with "TwitchTv"
+**Thoughts:**: I'm in love with [Vue.js](https://vuejs.org/)
+**Link to work:**
+[CodePen link](https://codepen.io/maksad/pen/BWjdVa)
