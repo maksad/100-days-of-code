@@ -168,3 +168,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: I'm in love with [Vue.js](https://vuejs.org/)
 **Link to work:**
 [CodePen link](https://codepen.io/maksad/pen/BWjdVa)
+
+### Day 28: March 5, 2017
+**Today's Progress**: Decided to use Angular2 for "Advanced Front End Development Projects".
+**Thoughts:**: So far looks smooth.
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
