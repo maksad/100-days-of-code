@@ -174,3 +174,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: So far looks smooth.
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 29: March 6, 2017
+**Today's Progress**: Added webpack to the project
+**Thoughts:**: Too much time was spend on bullshit.
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
