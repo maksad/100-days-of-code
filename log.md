@@ -186,3 +186,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: It's super fun to code when the dev environment set properly.
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 31: March 8, 2017
+**Today's Progress**: Added basic functions
+**Thoughts:**: Was a bit stressed
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
