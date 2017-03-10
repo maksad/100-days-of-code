@@ -198,3 +198,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: quite confusing.
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 33: March 10, 2017
+**Today's Progress**: Almost done with JS calculator. Refactored the code and removed "fancy" functionaloty
+**Thoughts:**: simplicity is the key to ship fast
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
