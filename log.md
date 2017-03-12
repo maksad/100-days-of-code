@@ -211,3 +211,8 @@ Though it's simple it still requires some css stylings.
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
 
+### Day 35: March 12, 2017
+**Today's Progress**: Started working on JS Pomodoro
+**Thoughts:**: deciding what colors and UI to choose is the hardest part
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
