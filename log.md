@@ -204,3 +204,10 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: simplicity is the key to ship fast
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 34: March 11, 2017
+**Today's Progress**: Done with JS Calculator
+**Thoughts:**: simplicity is the key to ship fast
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
+
