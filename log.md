@@ -216,3 +216,9 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: deciding what colors and UI to choose is the hardest part
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 36: March 13, 2017
+**Today's Progress**: Almost done with JS Pomodoro
+**Thoughts:**: Angular2 and typescript are amazing
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
