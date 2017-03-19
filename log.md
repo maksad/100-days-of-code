@@ -222,3 +222,33 @@ Though it's simple it still requires some css stylings.
 **Thoughts:**: Angular2 and typescript are amazing
 **Link to work:**
 [CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 37: March 14, 2017
+**Today's Progress**: Continuing with "JS Pomodoro" timer.
+**Thoughts:**:
+**Link to work:**
+[CodePen link](http://codepen.io/maksad/pen/RpLxVB)
+
+### Day 38: March 15, 2017
+**Today's Progress**: Done with "JS Pomodoro" timer.
+**Thoughts:**:
+**Link to work:**
+[CodePen link](http://codepen.io/maksad/pen/RpLxVB)
+
+### Day 39: March 16, 2017
+**Today's Progress**: Fixed some issue with pomodoro
+**Thoughts:**: Realised that my @angular pomodoro had some issues in @CodePen so I fixed 'em.
+**Link to work:**
+[CodePen link](http://bit.ly/2nJiAMY )
+
+### Day 40/41: March 17/18, 2017
+**Today's Progress**: Didn't code yesterday, thus spend 2hrs today.
+**Thoughts:**: My @angular "Tic Tac Toe" still needs some coding.
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
+
+### Day 42: March 19, 2017
+**Today's Progress**: Spend most of my time learning about the math behind "Tic Tac Toe".
+**Thoughts:**:
+**Link to work:**
+[CodePen link](https://github.com/maksad/freecodecamp)
